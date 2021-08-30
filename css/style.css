@@ -61,11 +61,8 @@ body {
     text-align: center;
 }
 
-.margin {
-    margin: 8% 0;
-}
-
 .one {
+    margin: 50px 0;
     font-size: 50px;
     font-weight: 30px;
 }
@@ -207,9 +204,19 @@ body {
 }
 
 .end .sample {
-    margin: 40px 0;
+    margin: 70px 0;
 }
 
 .end .web {
     margin: 40px 0;
+}
+
+.sample {
+    text-align: center;
+    padding: 15px 0;
+}
+
+.principal {
+    padding: 15px 0;
+    font-size: 17px;
 }
