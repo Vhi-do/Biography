@@ -14,9 +14,14 @@ body {
 }
 
 .bio-img {
+    margin: 40px;
     width: 300px;
     height: 300px;
     border-radius: 50%;
+}
+
+.content p {
+    margin: 15px;
 }
 
 .social-icons {
@@ -215,6 +220,7 @@ body {
     text-align: center;
     padding: 15px 0;
 }
+
 .principal {
     padding: 15px 0;
     font-size: 17px;
